@@ -10,6 +10,6 @@ p    {color: green;}
 </style>
 </head>    
 <body>
-<img src=x onerror=alert(document.domain)>
+<img src=g onerror=alert(document.domain)>
 </body>
 </html>
