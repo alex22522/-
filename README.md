@@ -1,9 +1,8 @@
 <html>
   <center>
   <head>
-    <h1 style="color:green;">Ghost Shell</h1>   
+    <h1 style="color:red;">Ghost_Shell_POC</h1>   
   </head>
 <body>
-  <script>alert(document.domain)</script>
+  <img src=g onerror=alert(document.domain)>
 </body>
-</html>
