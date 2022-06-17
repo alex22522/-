@@ -1,9 +1,7 @@
-<html>
-<head>
-<center>
-  <h1 style="00ff00";>Ghost Shell</h1>   
-</head>    
+<html>   
 <body>
-<script>alert(document.domain)</script>
+  <center>
+  <h1 color="00ff00";>Ghost Shell</h1>   
+  <script>alert(document.domain)</script>
 </body>
 </html>
