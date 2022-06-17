@@ -1,6 +1,6 @@
 <html>
   <center>
-  <head style="color:green;" font-family: 'Iceland'; font-size: 22px;>
+  <head style="color:green;" font-family: 'Iceland'; >
     <link rel="stylesheet" href="ok.css">
     <h1>Ghost_Shell</h1>
   </head>
