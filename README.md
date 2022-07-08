@@ -4,5 +4,7 @@
     <h1 style="color:red;">Khaled AlKhawaga</h1>   
   </head>
 <body style="background-color:black;">
-  <img src="happy1.webp"></img>
+  <img src="happy1.webp">
+  <video controls autoplay>
+  <source src="happyeid.mp4" type="video/mp4"><source>
 </body>
