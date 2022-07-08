@@ -14,7 +14,7 @@
   <img src="happy1.webp">
   <video controls autoplay>
   <source src="Boha.mp4" type="video/mp4"><source></video>  
-  <h3 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Khaled AlKhawaga</h3>
+  <h1 style="color:#00ff00">Copyrights&copy;2022 All Rights Reserved To Khaled AlKhawaga</h1>
   <script>alert("🎈عيد اضحي سعيد😍علي الامة الاسلامية😍جميعا يارب🎈")</script>
 </body>
 
