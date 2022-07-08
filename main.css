@@ -1,7 +1,5 @@
-html { 
-  background: url(happy.jpg) no-repeat center center fixed; 
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
+body{
+   background-image:url("happy.jpg")
+   background-size:contain;
+   background-repeat:no-repeat;
 }
