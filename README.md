@@ -12,7 +12,8 @@
     </style>
   <body style="background-image: url('happy.jpg');">
   <img src="happy1.webp">
-  <source src="Boha.mp4" type="video/mp4"><source></video>
+  <video controls autoplay>
+  <source src="Boha.mp4" type="video/mp4"><source></video>  
   <script>alert("🎈عيد اضحي سعيد😍علي الامة الاسلامية😍جميعا يارب🎈")</script>
 </body>
 
