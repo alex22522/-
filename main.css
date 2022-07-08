@@ -1,5 +1,5 @@
 html {
-    background-size: cover;
+    background-size: 300px 100px, cover;   
     background-repeat: no-repeat;
     background-position: center center;
     background-image: url("happy.jpg");
