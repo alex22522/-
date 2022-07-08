@@ -1,8 +1,8 @@
 <html>
   <center>
   <head>
-    <h1 style="color:red;">Ghost_Shell_POC</h1>   
+    <h1 style="color:red;">Khaled AlKhawaga</h1>   
   </head>
 <body style="background-color:black;">
-  <script>alert(document.domain)</script>
+  <img src="happy1.webp"></img>
 </body>
