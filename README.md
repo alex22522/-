@@ -10,7 +10,7 @@
                    height: auto;
                 }
     </style>
-  <body style="background-image: url('happy.jpg');">
+  <body background="happy.jpg">
   <img src="happy1.webp">
   <video controls autoplay>
   <source src="Boha.mp4" type="video/mp4"><source></video>  
