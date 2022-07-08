@@ -1,8 +1,13 @@
 <html>
   <center>
   <head>
-    <h1 style="color:red;">Khaled AlKhawaga</h1>   
+    <h1 style="color:red;">Khaled AlKhawaga</h1>  
   </head>
+    <script>
+function myFunction() {
+  document.getElementById("videoPlayer").innerHTML = "Paragraph changed.";
+}
+</script>
     <link rel="stylesheet" href="main.css">
     <style>
           video {
@@ -11,11 +16,6 @@
                 }
     </style>
   <body>
-<script>
-function myFunction() {
-  document.getElementById("videoPlayer").innerHTML = "Paragraph changed.";
-}
-</script>
   <img src="happy.jpg" id="bg">
   <img src="happy1.webp">
   <video autoplay playsinline loop controls="controls" id="videoPlayer">
