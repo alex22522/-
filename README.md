@@ -15,7 +15,8 @@ function myFunction() {
                    height: auto;
                 }
     </style>
-  <body background="happy.jpg" id="html">
+  <body>
+    <p style="background-image: url('happy.jpg');">
  <script>
 function myFunction() {
   document.getElementById("videoPlayer");
