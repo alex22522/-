@@ -15,7 +15,8 @@
 function myFunction() {
   document.getElementById("videoPlayer").innerHTML = "Paragraph changed.";
 }
-</script>  <div><img src="happy.jpg" id="bg"></div>
+</script>
+  <img src="happy.jpg" id="bg">
   <img src="happy1.webp">
   <video autoplay playsinline loop controls="controls" id="videoPlayer">
   <video controls autoplay>
