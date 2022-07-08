@@ -11,6 +11,7 @@
                 }
     </style>
   <body>
+  <img src="happy.jpg" id="bg">
   <img src="happy1.webp">
   <video controls autoplay>
   <source src="happyeid.mp4" type="video/mp4"><source>
