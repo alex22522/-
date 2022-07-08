@@ -1,7 +1,7 @@
 <html>
   <center>
   <head>
-     <h1 style="color:00ff00;">Khaled AlKhawaga</h1>  
+     <h1 style="color:#00ff00;">Khaled AlKhawaga</h1>  
   </head>
     <link rel="stylesheet" href="main.css">
     <style>
