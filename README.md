@@ -3,6 +3,7 @@
   <head>
     <h1 style="color:red;">Khaled AlKhawaga</h1>   
   </head>
+    <link rel="stylesheet" type="text/css" href="main.css">
     <style>
           video {
                    width: 100%;
