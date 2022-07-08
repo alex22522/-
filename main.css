@@ -1,6 +1,6 @@
 html {
-    background-size: 300px 100px, cover;   
+    background-image: url("happy.jpg");
+    background-size: auto 100%;
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url("happy.jpg");
 }
