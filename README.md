@@ -10,6 +10,10 @@
                 }
     </style>
   <body background="happy.jpg">
+          body {
+    background-image:url("happy.jpg")
+    background-size:contain;
+               } 
   <img src="happy1.webp">
   <video controls autoplay>
   <source src="happyeid.mp4" type="video/mp4"><source>
