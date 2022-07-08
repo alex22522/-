@@ -10,11 +10,9 @@
                 }
     </style>
     <style>
-      {
-  background: url(happy.jpg);
-  background-repeat: no-repeat;
-  background-size: auto;
-      }
+      body {
+  background-image: url('https://raw.githubusercontent.com/alex22522/Happy_Eid/main/happy.jpg');
+}
     </style> 
   <img src="happy1.webp">
   <video controls autoplay>
