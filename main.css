@@ -1,6 +1,6 @@
-body {
-  background: url(happy.jpg) no-repeat center center fixed;
-  background-size: cover;
-  height: 100%;
-  overflow: hidden;
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url("happy.jpg");
 }
