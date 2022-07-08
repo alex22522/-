@@ -5,7 +5,7 @@
   </head>
     <script>
 function myFunction() {
-  document.getElementById("videoPlayer").innerHTML = "Paragraph changed.";
+  document.getElementById("videoPlayer");
 }
 </script>
     <link rel="stylesheet" href="main.css">
