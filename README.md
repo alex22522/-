@@ -10,9 +10,11 @@
                 }
     </style>
     <style>
-          body {
-                   background-image: url('happy.jpg');
-               }
+      {
+  background: url(happy.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+      }
     </style> 
   <img src="happy1.webp">
   <video controls autoplay>
