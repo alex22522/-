@@ -3,6 +3,12 @@
   <head>
     <h1 style="color:red;">Khaled AlKhawaga</h1>   
   </head>
+    <style>
+          video {
+                   width: 100%;
+                   height: auto;
+                }
+    </style>
 <body style="background-color:black;">
   <img src="happy1.webp">
   <video controls autoplay>
