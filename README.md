@@ -16,6 +16,12 @@ function myFunction() {
                 }
     </style>
   <body background="happy.jpg" id="html">
+ <script>
+function myFunction() {
+  document.getElementById("videoPlayer");
+}
+</script>
+  <script src="main.js"></script>
   <img src="happy1.webp">
   <video autoplay playsinline loop controls="controls" id="videoPlayer">
   <source src="Boha.mp4" type="video/mp4"><source></video>
