@@ -3,11 +3,6 @@
   <head>
     <h1 style="color:red;">Khaled AlKhawaga</h1>  
   </head>
-    <script>
-function myFunction() {
-  document.getElementById("videoPlayer");
-}
-</script>
     <link rel="stylesheet" href="main.css">
     <style>
           video {
@@ -15,19 +10,9 @@ function myFunction() {
                    height: auto;
                 }
     </style>
-  <body>
-    <p style="background-image: url('happy.jpg');">
- <script>
-function myFunction() {
-  document.getElementById("videoPlayer");
-}
-</script>
-  <script src="main.js"></script>
+  <body style="background-image: url('happy.jpg');">
   <img src="happy1.webp">
-  <video autoplay playsinline loop controls="controls" id="videoPlayer">
   <source src="Boha.mp4" type="video/mp4"><source></video>
-  <video controls autoplay>
-  <source src="happyeid.mp4" type="video/mp4"><source></video>
   <script>alert("🎈عيد اضحي سعيد😍علي الامة الاسلامية😍جميعا يارب🎈")</script>
 </body>
 
