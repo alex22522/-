@@ -11,7 +11,7 @@
                 }
     </style>
   <body>
-  <img src="happy.jpg" id="bg">
+  <div><img src="happy.jpg" id="bg"></div>
   <img src="happy1.webp">
   <video controls autoplay>
   <source src="Boha.mp4" type="video/mp4"><source></video>
