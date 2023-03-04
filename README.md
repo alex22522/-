@@ -1,6 +1,7 @@
 <html>
   <center>
   <head>
+<link rel="stylesheet" type="text/css" href="main.css" />
        <h1 style="color:#00ff00">Domain For Sale</h1>
   </head>
   <center>  
