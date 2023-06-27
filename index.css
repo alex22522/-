@@ -18,7 +18,17 @@ h1, h2, h3, h4{font-weight:120; text-align:center; color:#ddd;  margin:0; text-t
 span{text-align:center; margin:0px auto; display:block; color:#666; font-size:21px;}
 span + span{color:#000; font-size:16px; margin-top:20px; font-weight:300;}
 
+.video-container {
+  width: 100%;
+  overflow: hidden;
+  display: block;
+}
 
+#video {
+  object-fit: cover !important;
+  max-width: 100%;
+  height: auto;
+}
 
 
 
