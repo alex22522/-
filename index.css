@@ -12,7 +12,11 @@ canvas {
 body > div{
     background: #232323;
 }
-
+.WebContainer{
+    width:100%;
+    min-width:1000px;
+    height:auto;
+}
 
 h1, h2, h3, h4{font-weight:120; text-align:center; color:#ddd;  margin:0; text-transform:uppercase;}
 span{text-align:center; margin:0px auto; display:block; color:#666; font-size:21px;}
