@@ -3,8 +3,8 @@
 <head>
 
   <meta charset="UTF-8">
-    <link rel="stylesheet" href="css/eid.css" media="screen" type="text/css" />
-  <script language="JavaScript" type="text/javascript" src="...js/eid.js"></script>
+    <link rel="stylesheet" href="css/index.css" media="screen" type="text/css" />
+  <script language="JavaScript" type="text/javascript" src="index.js"></script>
 <style>
 
 
@@ -16,11 +16,12 @@
 
 </head>
 
-<body>
+<body style="background-color:black;">
+  <center>
 <canvas id="canvas"></canvas>
 
  <div id="container">
-    <h1>Happy Adha Eid</h1><br />
+    <h1 style="color:green;">Happy Adha Eid</h1><br />
 </div>
 
  <section class="balloons-conatiner" id="balloons-container">
@@ -42,7 +43,7 @@
 <script src='https://codepen.io/assets/libs/fullpage/jquery.js'></script>
 
   <script src='https://codepen.io/assets/libs/fullpage/none.js'></script>
-  <script language="JavaScript" type="text/javascript" script src="js/eid.js"></script>
+  <script language="JavaScript" type="text/javascript" script src="js/index.js"></script>
 </body>
 
 </html>
