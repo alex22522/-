@@ -21,7 +21,7 @@
 <canvas id="canvas"></canvas>
 
  <div id="container">
-    <h1 style="color:green;">Happy Adha Eid</h1><br />
+    <h1 style="color:#00ff00;">Happy Adha Eid</h1><br />
 </div>
 
  <section class="balloons-conatiner" id="balloons-container">
