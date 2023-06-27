@@ -20,7 +20,7 @@ var loadData = function () {
     audio.load();
 };
 
-body.addEventListener('ontouchstart', loadData, false)
+body.addEventListener('ontouchstart', loadData, true)
     }
   <div class="video-container">
   <video autoplay controls class="video" id="video">
