@@ -1,22 +1,22 @@
 <html>
 
 <head>
-
   <meta charset="UTF-8">
     <link rel="stylesheet" href="index.css" media="screen" type="text/css" />
   <script language="JavaScript" type="text/javascript" src="index.js"></script>
    <div id="container">
-    <h1 style="color:#00ff00;">Happy Adha Eid</h1><br />
+    <h1 style="color:#00ff00;">Happy Adha Eid</h1>
 </div>
 </head>
 
 <body style="background-color:#8B008B">
   <center>
-<canvas id="canvas"></canvas>
-<div class="video-container">
+  <div class="video-container">
   <video class="video" id="video" autoplay="autoplay" preload="auto">
 <source src="Boha.mp4" type="video/mp4"></video>
 </div>
+<canvas id="canvas"></canvas>
+
    <!--<script src="modernizr.js"></script>-->
     <!--<script src="prefixfree.min.js"></script>-->
  <section class="balloons-conatiner" id="balloons-container">
@@ -39,5 +39,5 @@
 
   <script src='https://codepen.io/assets/libs/fullpage/none.js'></script>
   <script language="JavaScript" type="text/javascript" script src="index.js"></script>
-</body>
+
 
