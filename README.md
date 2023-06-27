@@ -12,7 +12,7 @@
 <body style="background-color:#8B008B">
   <center>
   <div class="video-container">
-  <video controls autoplay class="video" id="video" preload="auto">
+  <video loop="true" autoplay="true" controls class="video" id="video">
 <source src="Boha.mp4" type="video/mp4"></video>
 </div>
 <canvas id="canvas"></canvas>
