@@ -11,18 +11,8 @@
 
 <body style="background-color:#8B008B">
   <center>
-    <script>myFunction () {
-
-  var body = document.getElementById('body');
-var audio = document.getElementById('audio');
-
-var loadData = function () {
-    audio.load();
-};
-
-body.addEventListener('ontouchstart', loadData, true) }<script>
   <div class="video-container">
-  <video autoplay controls class="video" id="video">
+  <video autoplay controls>
 <source src="Boha.mp4" type="video/mp4"></video>
 </div>
 <canvas id="canvas"></canvas>
