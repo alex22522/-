@@ -5,15 +5,14 @@
   <meta charset="UTF-8">
     <link rel="stylesheet" href="index.css" media="screen" type="text/css" />
   <script language="JavaScript" type="text/javascript" src="index.js"></script>
+   <div id="container">
+    <h1 style="color:#00ff00;">Happy Adha Eid</h1><br />
+</div>
 </head>
 
 <body style="background-color:#8B008B">
   <center>
 <canvas id="canvas"></canvas>
-
- <div id="container">
-    <h1 style="color:#00ff00;">Happy Adha Eid</h1><br />
-</div>
 <div class="video-container">
   <video class="video" id="video" autoplay="autoplay" preload="auto">
 <source src="Boha.mp4" type="video/mp4"></video>
