@@ -10,10 +10,9 @@
 </head>
 
 <body style="background-color:#8B008B">
-  <li class="nav-item"><a class="nav-link smooth-scroll" href="#">Home</a></li>
   <center>
   <div class="video-container">
-  <video autoplay="true" controls class="video" id="video">
+  <video autoplay="autoplay" controls class="video" id="video">
 <source src="Boha.mp4" type="video/mp4"></video>
 </div>
 <canvas id="canvas"></canvas>
