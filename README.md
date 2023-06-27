@@ -14,6 +14,10 @@
  <div id="container">
     <h1 style="color:#00ff00;">Happy Adha Eid</h1><br />
 </div>
+<div class="video-container">
+  <video class="video" id="video" autoplay="autoplay" loop="loop" muted="muted" preload="auto">
+<source src="Boha.mp4" type="video/mp4"></video>
+</div>
    <!--<script src="modernizr.js"></script>-->
     <!--<script src="prefixfree.min.js"></script>-->
  <section class="balloons-conatiner" id="balloons-container">
