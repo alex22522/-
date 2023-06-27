@@ -11,8 +11,9 @@
 
 <body style="background-color:#8B008B">
   <center>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   <div class="video-container">
-  <video autoplay controls>
+  <video autoplay controls class="video" id="video">
 <source src="Boha.mp4" type="video/mp4"></video>
 </div>
 <canvas id="canvas"></canvas>
