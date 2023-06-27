@@ -7,7 +7,7 @@
   <script language="JavaScript" type="text/javascript" src="index.js"></script>
 </head>
 
-<body style="background-color:black;">
+<body style="background-color:#8B008B">
   <center>
 <canvas id="canvas"></canvas>
 
