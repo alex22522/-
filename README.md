@@ -38,4 +38,3 @@
   <script language="JavaScript" type="text/javascript" script src="index.js"></script>
 </body>
 
-</html>
