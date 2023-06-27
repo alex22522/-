@@ -3,17 +3,8 @@
 <head>
 
   <meta charset="UTF-8">
-    <link rel="stylesheet" href="css/index.css" media="screen" type="text/css" />
+    <link rel="stylesheet" href="index.css" media="screen" type="text/css" />
   <script language="JavaScript" type="text/javascript" src="index.js"></script>
-<style>
-
-
-</style>
-
-    <script src="js/prefixfree.min.js"></script>
-
-    <script src="js/modernizr.js"></script>
-
 </head>
 
 <body style="background-color:black;">
@@ -23,7 +14,8 @@
  <div id="container">
     <h1 style="color:#00ff00;">Happy Adha Eid</h1><br />
 </div>
-
+   <!--<script src="modernizr.js"></script>-->
+    <!--<script src="prefixfree.min.js"></script>-->
  <section class="balloons-conatiner" id="balloons-container">
         <div class="balloon yellow" ></div>
         <div class="balloon blue"   ></div>
@@ -43,7 +35,7 @@
 <script src='https://codepen.io/assets/libs/fullpage/jquery.js'></script>
 
   <script src='https://codepen.io/assets/libs/fullpage/none.js'></script>
-  <script language="JavaScript" type="text/javascript" script src="js/index.js"></script>
+  <script language="JavaScript" type="text/javascript" script src="index.js"></script>
 </body>
 
 </html>
