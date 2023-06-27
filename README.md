@@ -20,8 +20,7 @@ var loadData = function () {
     audio.load();
 };
 
-body.addEventListener('ontouchstart', loadData, true)
-    }
+body.addEventListener('ontouchstart', loadData, true) }<script>
   <div class="video-container">
   <video autoplay controls class="video" id="video">
 <source src="Boha.mp4" type="video/mp4"></video>
